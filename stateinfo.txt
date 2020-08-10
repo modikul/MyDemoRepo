@@ -1,0 +1,4 @@
+This file contain states and capital information.
+MAH-Mumbai
+MP-Bhopal
+RAJ-Jaipur
