@@ -4,3 +4,5 @@ MP-Bhopal
 RAJ-Jaipur
 KAR-Bangalore
 TN-Chennai
+OR-Bhebaneshwar
+WB-Kolkata
