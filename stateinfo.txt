@@ -9,4 +9,3 @@ WB-Kolkata
 GOA-Panji
 Guj-Gandhinagar
 UP-Lucknow
-Pun-Chandigarh
