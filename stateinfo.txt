@@ -6,3 +6,4 @@ KAR-Bangalore
 TN-Chennai
 OR-Bhebaneshwar
 WB-Kolkata
+GOA-Panji
