@@ -7,3 +7,5 @@ TN-Chennai
 OR-Bhebaneshwar
 WB-Kolkata
 GOA-Panji
+Guj-Gandhinagar
+UP-Lucknow
