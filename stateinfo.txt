@@ -9,3 +9,6 @@ WB-Kolkata
 GOA-Panji
 Guj-Gandhinagar
 UP-Lucknow
+HP-Shimla
+BH-patna
+OR-Bhubaneshwar
